@@ -1,15 +1,15 @@
 # PengalamanBelajar
 Repository ini Berisi Pengalaman Belajarku Selama diDicoding
 
-07 Februari 2022
+**07 Februari 2022**
 
 Belajar kelas memulai pemerograman dengan Java. (Progres 21%)
 
-  *Belajar tentang Apa itu Java dan alasan menggunakanya
+  * Belajar tentang Apa itu Java dan alasan menggunakanya
   
-  *Belajar Tools yang dapat digunakan dalam menjalankan Bahasa Pemerograman Java
+  * Belajar Tools yang dapat digunakan dalam menjalankan Bahasa Pemerograman Java
 
-08 Februari 2022
+**08 Februari 2022**
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
